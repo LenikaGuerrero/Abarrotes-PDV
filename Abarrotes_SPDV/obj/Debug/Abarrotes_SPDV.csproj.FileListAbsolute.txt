@@ -1,0 +1,117 @@
+c:\users\lenikag\documents\visual studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\Abarrotes_SPDV.exe.config
+c:\users\lenikag\documents\visual studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\Abarrotes_SPDV.exe
+c:\users\lenikag\documents\visual studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\Abarrotes_SPDV.pdb
+c:\users\lenikag\documents\visual studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.csprojResolveAssemblyReference.cache
+c:\users\lenikag\documents\visual studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.Properties.Resources.resources
+c:\users\lenikag\documents\visual studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.csproj.GenerateResource.Cache
+c:\users\lenikag\documents\visual studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.exe
+c:\users\lenikag\documents\visual studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.pdb
+C:\Users\LenikaG\Documents\Visual Studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_ventas.resources
+C:\Users\LenikaG\Documents\Visual Studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_clientes.resources
+C:\Users\LenikaG\Documents\Visual Studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_menu.resources
+C:\Users\LenikaG\Documents\Visual Studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_productos.resources
+C:\Users\LenikaG\Documents\Visual Studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_proveedores.resources
+C:\Users\LenikaG\Documents\Visual Studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_cartera.resources
+C:\Users\LenikaG\Documents\Visual Studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_pedidos.resources
+C:\Users\LenikaG\Documents\Visual Studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_mod_clientes.resources
+C:\Users\LenikaG\Documents\Visual Studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_inventario.resources
+C:\Users\LenikaG\Documents\Visual Studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_listclientes.resources
+C:\Users\LenikaG\Documents\Visual Studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_listproductos.resources
+C:\Users\LenikaG\Documents\Visual Studio 2015\Projects\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_listproductoPDT.resources
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\Abarrotes_SPDV.exe.config
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.exe
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.pdb
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.csprojResolveAssemblyReference.cache
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_cartera.resources
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_clientes.resources
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_inventario.resources
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_listclientes.resources
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_listproductos.resources
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_listproductoPDT.resources
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_mod_clientes.resources
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_menu.resources
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_pedidos.resources
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_productos.resources
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.Properties.Resources.resources
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_proveedores.resources
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_ventas.resources
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.csproj.GenerateResource.Cache
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\Abarrotes_SPDV.exe
+C:\Users\LenikaG\Downloads\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\Abarrotes_SPDV.pdb
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\Abarrotes_SPDV.exe.config
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.exe
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.pdb
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\Abarrotes_SPDV.exe
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\Abarrotes_SPDV.pdb
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.csprojResolveAssemblyReference.cache
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_cartera.resources
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_clientes.resources
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_inventario.resources
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_listclientes.resources
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_listproductos.resources
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_listproductoPDT.resources
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_mod_clientes.resources
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_menu.resources
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_pedidos.resources
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_productos.resources
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.Properties.Resources.resources
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_proveedores.resources
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_ventas.resources
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.csproj.GenerateResource.Cache
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.Frm_Reportes.resources
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\RdlCompile.cache
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\RdlCompile.compiled
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LenikaG\Desktop\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.Visualizar_Reporte.resources
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\Abarrotes_SPDV.exe.config
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.exe
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.pdb
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\Abarrotes_SPDV.exe
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\Abarrotes_SPDV.pdb
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.csprojResolveAssemblyReference.cache
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_cartera.resources
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_clientes.resources
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.Frm_Reportes.resources
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_inventario.resources
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_listclientes.resources
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_listproductos.resources
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_listproductoPDT.resources
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_mod_clientes.resources
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_menu.resources
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_pedidos.resources
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_productos.resources
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.Properties.Resources.resources
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_proveedores.resources
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_ventas.resources
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.Visualizar_Reporte.resources
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.csproj.GenerateResource.Cache
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\RdlCompile.cache
+C:\Users\LenikaG\Documents\ITH\5to Semestre\Ingenieria de Software\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\RdlCompile.compiled
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\Abarrotes_SPDV.exe.config
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.exe
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.pdb
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\Abarrotes_SPDV.exe
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\Abarrotes_SPDV.pdb
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_cartera.resources
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_clientes.resources
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.Frm_Reportes.resources
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_inventario.resources
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_listclientes.resources
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_listproductos.resources
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_listproductoPDT.resources
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_mod_clientes.resources
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_menu.resources
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_pedidos.resources
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_productos.resources
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.Properties.Resources.resources
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_proveedores.resources
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.frm_ventas.resources
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.Visualizar_Reporte.resources
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.csproj.GenerateResource.Cache
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.csprojAssemblyReference.cache
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.csproj.CoreCompileInputs.cache
+C:\Users\lenik\Documents\ITH\6to Semestre\Administracion de Base de Datos\BD\Abarrotes\Abarrotes_SPDV\Abarrotes_SPDV\obj\Debug\Abarrotes_SPDV.csproj.CopyComplete
